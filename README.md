@@ -1,4 +1,4 @@
-# github
+# Github
 Learn GitHub Deep Dive
 
 In GitHub, you can format the content of your README.md file using Markdown, which is a lightweight markup language that allows you to style and structure your text. Markdown is widely used for creating documentation, README files, and other text-based content on GitHub and other platforms.
