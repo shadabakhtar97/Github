@@ -87,7 +87,7 @@ Here are some common Markdown formatting elements you can use in your GitHub REA
 
 You can combine and nest these elements to format your README.md file in a way that suits your project's documentation needs. GitHub will render the Markdown content as formatted text when you view the README file on the repository page. Make sure to preview your changes on GitHub to ensure they appear as expected.
 
-### -----------------------------------------------------------------------------------------------------------------------------
+### --------------------------------------------------------------------------------------------------------------------------
 ### What is personal access token in github ?
 
 A personal access token (PAT) in GitHub is a secure way to authenticate and interact with GitHub's APIs and services on behalf of a user or organization. It serves as an alternative to using a password for authentication and provides a more controlled and secure way to access GitHub resources programmatically. PATs are often used by developers and applications to perform various tasks like pushing code, accessing repositories, or managing GitHub actions.
@@ -107,3 +107,14 @@ Here are some key points about personal access tokens in GitHub:
 Creating a personal access token in GitHub involves going to your GitHub account settings, navigating to the "Developer settings" or "Developer applications" section, and then generating a new token with the desired permissions and scope. It's important to keep your personal access tokens secure and not share them publicly, as they can be used to access and modify your GitHub resources.
 
 Remember to follow GitHub's best practices for token management and rotate tokens regularly for enhanced security.
+
+### --------------------------------------------------------------------------------------------------------------------------
+### What are differences between fined gained token and classic token in github
+
+Fine-grained personal access tokens
+ These are fine-grained, repository-scoped tokens suitable for personal API use and for using Git over HTTPS.
+
+Personal access tokens (classic)
+ okens you have generated that can be used to access the GitHub API.
+
+ ### --------------------------------------------------------------------------------------------------------------------------
