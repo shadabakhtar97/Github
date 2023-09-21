@@ -87,7 +87,7 @@ Here are some common Markdown formatting elements you can use in your GitHub REA
 
 You can combine and nest these elements to format your README.md file in a way that suits your project's documentation needs. GitHub will render the Markdown content as formatted text when you view the README file on the repository page. Make sure to preview your changes on GitHub to ensure they appear as expected.
 
-### --------------------------------------------------------------------------------------------------------------------------------
+### -----------------------------------------------------------------------------------------------------------------------------
 ### What is personal access token in github ?
 
 A personal access token (PAT) in GitHub is a secure way to authenticate and interact with GitHub's APIs and services on behalf of a user or organization. It serves as an alternative to using a password for authentication and provides a more controlled and secure way to access GitHub resources programmatically. PATs are often used by developers and applications to perform various tasks like pushing code, accessing repositories, or managing GitHub actions.
