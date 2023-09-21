@@ -111,10 +111,10 @@ Remember to follow GitHub's best practices for token management and rotate token
 ### --------------------------------------------------------------------------------------------------------------------------
 ### What are differences between fined gained token and classic token in github
 
-Fine-grained personal access tokens
+**Fine-grained personal access tokens**
  These are fine-grained, repository-scoped tokens suitable for personal API use and for using Git over HTTPS.
 
-Personal access tokens (classic)
+**Personal access tokens (classic)**
  okens you have generated that can be used to access the GitHub API.
 
  ### --------------------------------------------------------------------------------------------------------------------------
