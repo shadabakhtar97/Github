@@ -115,6 +115,6 @@ Remember to follow GitHub's best practices for token management and rotate token
  These are fine-grained, repository-scoped tokens suitable for personal API use and for using Git over HTTPS.
 
 **Personal access tokens (classic)**
- okens you have generated that can be used to access the GitHub API.
+ Tokens you have generated that can be used to access the GitHub API.
 
  ### --------------------------------------------------------------------------------------------------------------------------
